@@ -1,6 +1,7 @@
 package com.springframework.petclinic.model;
 
 public class Person {
+    //nothing
     public String firstName;
     public String lastName;
 
