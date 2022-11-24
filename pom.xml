@@ -45,7 +45,7 @@
 		</plugins>
 	</build>
  	<scm>
-		<developerConnection>scm:git:git@github.com:patzluke/petclinic.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/patzluke/petclinic.git</developerConnection>
     <tag>petclinic-0.0.1</tag>
   </scm>
 
