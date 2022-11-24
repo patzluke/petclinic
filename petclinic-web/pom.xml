@@ -48,4 +48,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+
+  <scm>
+    <tag>petclinic-0.0.1</tag>
+  </scm>
 </project>
