@@ -16,7 +16,7 @@
 
 	<groupId>patz.spring</groupId>
 	<artifactId>petclinic</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>petclinic</name>
 	<description>petclinic project for Spring Boot</description>
 
@@ -39,6 +39,7 @@
 				<version>2.5.3</version>
 				<configuration>
 					<goals>install</goals>
+					<autoVersionSubmodules>true</autoVersionSubmodules>
 				</configuration>
 			</plugin>
 		</plugins>
